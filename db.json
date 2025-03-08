@@ -1,0 +1,644 @@
+{
+    "categorias": [
+{
+    "categoria": "Ensaladas",
+    "ensaladas": [
+      {
+        "nombre": "Ensalada de Salmon",
+        "ingredientes": [
+          "200 g de salmón fresco",
+          "2 tazas de lechuga mixta",
+          "1/2 pepino",
+          "1/4 de cebolla morada",
+          "1 cucharada de eneldo",
+          "1 limón",
+          "aceite de oliva",
+          "Sal y pimienta"
+        ],
+        "preparacion": [
+          "Lava y seca bien las hojas de lechuga. Colócalas en un tazón grande.",
+          "Añade las rodajas de pepino y la cebolla morada picada.",
+          "Corta el salmón fresco en tiras o cubos y agrégalo a la ensalada.",
+          "Espolvorea con eneldo fresco.",
+          "En un pequeño tazón, mezcla el jugo de limón, el aceite de oliva, sal y pimienta. Bate bien y vierte sobre la ensalada.",
+          "Mezcla suavemente para que todos los ingredientes se impregnen del aderezo."
+        ],
+        "imagen": "url_imagen_ensalada_salmon"
+      },
+      {
+        "nombre": "Ensalada de pollo y aguacate",
+        "ingredientes": [
+          "Pechuga de pollo",
+          "Espinaca fresca o mezcla de hojas verdes (rúcula, lechuga, etc.)",
+          "Aguacate",
+          "Tomates cherry",
+          "Aceite de oliva",
+          "Jugo de limón",
+          "Sal y pimienta",
+          "Ajo en polvo",
+          "Orégano seco"
+        ],
+        "preparacion": [
+          "Sazona la pechuga de pollo con sal, pimienta, ajo en polvo y orégano seco.",
+          "Calienta una sartén con un poco de aceite de oliva a fuego medio-alto.",
+          "Cocina la pechuga por unos 5-7 minutos por cada lado hasta que esté dorada y bien cocida por dentro.",
+          "Retira del fuego y deja reposar unos minutos antes de cortarla en rebanadas.",
+          "Lava y escurre bien las hojas verdes.",
+          "Corta el aguacate en rodajas o en cubos.",
+          "Parte los tomates cherry a la mitad.",
+          "Coloca las hojas verdes en un bowl grande.",
+          "Agrega el pollo en rebanadas, los tomates cherry y el aguacate.",
+          "Rocía con un chorrito de jugo de limón y aceite de oliva.",
+          "Opcionalmente, puedes añadir un toque de vinagre balsámico para más sabor.",
+          "Mezcla suavemente la ensalada justo antes de servir."
+        ],
+        "imagen": "url_imagen_ensalada_pollo_aguacate"
+      },
+      {
+        "nombre": "Ensalada de quinoa y aguacate",
+        "ingredientes": [
+          "1 taza de quinoa",
+          "1 aguacate maduro",
+          "1 batata (camote) mediana",
+          "1 taza de kale o espinaca picada",
+          "2 rábanos en rodajas finas",
+          "2 cucharadas de almendras fileteadas o piñones",
+          "2 cucharadas de semillas de sésamo o chía (opcional)",
+          "2 cucharadas de aceite de oliva",
+          "1 cucharada de jugo de limón",
+          "½ cucharadita de comino en polvo",
+          "Sal y pimienta al gusto"
+        ],
+        "preparacion": [
+          "Lava la quinoa bajo agua fría para eliminar el amargor.",
+          "En una olla, agrega la quinoa con 2 tazas de agua y una pizca de sal.",
+          "Lleva a ebullición, reduce el fuego y cocina tapado por unos 15 minutos o hasta que el agua se absorba.",
+          "Retira del fuego, deja reposar unos minutos y esponja con un tenedor.",
+          "Pela y corta la batata en cubos medianos.",
+          "Mezcla con 1 cucharada de aceite de oliva, comino, sal y pimienta.",
+          "Hornea a 200°C por 20-25 minutos o hasta que esté dorada y tierna.",
+          "Lava y pica el kale o la espinaca.",
+          "Corta el aguacate en rebanadas.",
+          "Corta los rábanos en rodajas finas.",
+          "Tuesta ligeramente las almendras o piñones en una sartén sin aceite.",
+          "En un bowl grande, mezcla la quinoa con el kale o espinaca.",
+          "Agrega los cubos de batata asada, el aguacate y los rábanos.",
+          "Espolvorea las almendras y las semillas de sésamo o chía.",
+          "Aliña con el resto del aceite de oliva y el jugo de limón.",
+          "Mezcla suavemente para integrar los sabores."
+        ],
+        "imagen": "url_imagen_ensalada_quinoa_aguacate"
+      },
+      {
+        "nombre": "Ensalada cesar con pollo",
+        "ingredientes": [
+          "Pechuga de pollo",
+          "Lechuga romana",
+          "Pan",
+          "Queso parmesano",
+          "Huevo",
+          "Aceite de oliva",
+          "Jugo de limón",
+          "Ajo",
+          "Mostaza",
+          "Salsa inglesa",
+          "Sal y pimienta"
+        ],
+        "preparacion": [
+          "Sazona la pechuga de pollo con sal, pimienta y un poco de aceite de oliva.",
+          "Cocínala a la plancha hasta que esté dorada por fuera y bien cocida por dentro.",
+          "Déjala reposar unos minutos y córtala en rebanadas.",
+          "Corta el pan en cubos pequeños.",
+          "Mézclalos con aceite de oliva, ajo picado y una pizca de sal.",
+          "Hornéalos hasta que estén dorados y crujientes.",
+          "En un tazón, mezcla yema de huevo, jugo de limón, ajo triturado, mostaza y salsa inglesa.",
+          "Agrega poco a poco aceite de oliva mientras bates hasta obtener una textura cremosa.",
+          "Añade queso parmesano rallado, sal y pimienta al gusto.",
+          "Lava y corta la lechuga romana en trozos.",
+          "Mézclala con la salsa César hasta que quede bien impregnada.",
+          "Añade el pollo en rebanadas, los cubitos de pan tostado y más queso parmesano rallado."
+        ],
+        "imagen": "url_imagen_ensalada_cesar_pollo"
+      },
+      {
+        "nombre": "Ensalada de patatas asadas",
+        "ingredientes": [
+          "Patatas pequeñas",
+          "Aceite de oliva",
+          "Romero fresco",
+          "Sal",
+          "Pimienta negra",
+          "Espinacas frescas",
+          "Cebolla morada",
+          "Queso feta"
+        ],
+        "preparacion": [
+          "Lava bien las patatas y córtalas por la mitad.",
+          "Mezcla con aceite de oliva, romero, sal y pimienta.",
+          "Ásalas en horno precalentado a 200°C durante 25-30 minutos o hasta que estén doradas y crujientes.",
+          "En un tazón, mezcla el yogur, jugo de limón, aceite de oliva y ajo triturado.",
+          "Bate bien hasta obtener una textura cremosa. Agrega sal y pimienta al gusto.",
+          "Coloca las espinacas en un tazón grande.",
+          "Añade las patatas asadas, la cebolla morada en rodajas y el queso feta desmoronado.",
+          "Rocía con el aderezo y mezcla suavemente."
+        ],
+        "imagen": "url_imagen_ensalada_patatas_asadas"
+      },
+      {
+        "nombre": "Ensalada de calabaza asada",
+        "ingredientes": [
+          "Calabaza",
+          "Aceite de oliva",
+          "Sal y pimienta",
+          "Queso feta",
+          "Granos de granada"
+        ],
+        "preparacion": [
+          "Corta la calabaza en trozos y mézclala con aceite de oliva, sal y pimienta.",
+          "Hornea a 200°C por 25-30 minutos.",
+          "Coloca la calabaza asada en un plato.",
+          "Añade el queso feta desmoronado y los granos de granada."
+        ],
+        "imagen": "url_imagen_ensalada_calabaza_asada"
+      }
+    ]
+  },
+
+  {
+    "categoria": "Sopas y Cremas",
+    "recetas": [
+      {
+        "nombre": "Sopa de hongos",
+        "ingredientes": [
+          "Champiñones",
+          "Mantequilla o aceite de oliva",
+          "Cebolla",
+          "Ajo",
+          "Caldo de verduras o pollo",
+          "Crema de leche o leche evaporada",
+          "Harina (opcional)",
+          "Sal y pimienta",
+          "Perejil fresco"
+        ],
+        "preparacion": [
+          "Saltear los hongos: Pica la cebolla y el ajo finamente. Corta los champiñones en rodajas. En una olla, derrite la mantequilla y sofríe la cebolla y el ajo hasta que estén dorados. Añade los champiñones y cocina hasta que suelten su líquido y se doren ligeramente.",
+          "Agregar el caldo: Vierte el caldo de verduras o pollo y deja hervir a fuego medio por 10-15 minutos.",
+          "Licuar y espesar: Si deseas una sopa más cremosa, licúa la mezcla hasta obtener una textura suave. Si quieres espesarla más, disuelve la harina en un poco de agua y agrégala a la olla, mezclando bien.",
+          "Añadir la crema: Reduce el fuego y añade la crema de leche, mezclando hasta integrar. Cocina unos minutos más sin dejar que hierva.",
+          "Servir: Ajusta la sal y pimienta al gusto. Decora con perejil fresco picado y unas rodajas de champiñón."
+        ]
+      },
+      {
+        "nombre": "Sopa de calabaza y coco",
+        "ingredientes": [
+          "Calabaza",
+          "Jengibre",
+          "Caldo de verduras",
+          "Leche de coco",
+          "Aceite de oliva",
+          "Sal y pimienta",
+          "Canela (opcional)",
+          "Anís estrellado (opcional)"
+        ],
+        "preparacion": [
+          "Cocinar la calabaza: Pela y corta la calabaza en trozos pequeños. Pela y ralla el jengibre. En una olla, calienta el aceite de oliva y sofríe ligeramente el jengibre. Agrega la calabaza y mezcla bien.",
+          "Agregar el caldo y cocinar: Vierte el caldo de verduras y deja cocinar a fuego medio hasta que la calabaza esté tierna.",
+          "Licuar y añadir la leche de coco: Retira del fuego y licúa la mezcla hasta obtener una textura cremosa. Regresa la mezcla a la olla y agrega la leche de coco, removiendo bien.",
+          "Ajustar el sabor y servir: Añade sal y pimienta al gusto. Si deseas, espolvorea un poco de canela y decora con anís estrellado."
+        ]
+      },
+      {
+        "nombre": "Sopa cremosa de tomate",
+        "ingredientes": [
+          "Tomates",
+          "Caldo de verduras",
+          "Crema de leche",
+          "Mantequilla",
+          "Aceite de oliva",
+          "Sal y pimienta",
+          "Azúcar (opcional)",
+          "Queso parmesano (opcional)"
+        ],
+        "preparacion": [
+          "Asar los tomates: Corta los tomates por la mitad y colócalos en una bandeja para hornear. Rocía con aceite de oliva, sal y pimienta. Hornea a 200°C hasta que estén suaves y ligeramente caramelizados.",
+          "Cocinar la base de la sopa: En una olla, derrite la mantequilla y añade los tomates asados. Agrega el caldo de verduras y cocina a fuego medio por unos minutos.",
+          "Licuar y hacer la crema: Retira del fuego y licúa hasta obtener una textura suave. Regresa a la olla, agrega la crema de leche y mezcla bien. Ajusta la sazón con sal, pimienta y una pizca de azúcar si es necesario.",
+          "Servir: Sirve caliente con queso parmesano rallado y pan rústico tostado."
+        ]
+      },
+      {
+        "nombre": "Sopa Cremosa de Salmón",
+        "ingredientes": [
+          "Salmón",
+          "Cebolla",
+          "Zanahoria",
+          "Papa",
+          "Ajo",
+          "Caldo de pescado",
+          "Crema de leche",
+          "Eneldo fresco",
+          "Mantequilla",
+          "Sal",
+          "Pimienta",
+          "Aceite de oliva"
+        ],
+        "preparacion": [
+          "Preparar los ingredientes: Picar la cebolla y el ajo finamente. Cortar la zanahoria y la papa en cubos pequeños. Trocear el salmón en piezas medianas.",
+          "Cocinar la base de la sopa: En una olla grande, calentar un poco de aceite de oliva y mantequilla. Sofreír la cebolla y el ajo hasta que estén transparentes. Agregar la zanahoria y la papa, mezclando bien.",
+          "Cocinar con el caldo: Verter el caldo de pescado y llevar a ebullición. Reducir el fuego y dejar cocinar hasta que las papas estén tiernas.",
+          "Agregar el salmón: Incorporar el salmón a la sopa y cocinar a fuego bajo hasta que esté cocido. Añadir la crema de leche y mezclar suavemente.",
+          "Finalizar y servir: Sazonar con sal y pimienta al gusto. Agregar eneldo fresco picado antes de servir. Opcionalmente, acompañar con pan tostado."
+        ]
+      },
+      {
+        "nombre": "Sopa de Fideos con Albóndigas",
+        "ingredientes": [
+          "Para las albóndigas: 300 g de carne molida (res, cerdo o pollo), 1 huevo, 2 cdas de pan rallado, 1 diente de ajo picado, Sal y pimienta al gusto, ½ cdta de comino (opcional)",
+          "Para la sopa: 1 litro de caldo de res o pollo, 150 g de fideos (tipo espagueti o ramen), 1 cda de pasta de tomate, 1 cda de salsa de soya (opcional), 1 cdta de ají o chile en pasta (opcional), ½ cdta de jengibre rallado, Espinacas, Aceite de sésamo o de oliva"
+        ],
+        "preparacion": [
+          "Preparar las albóndigas: Mezclar la carne molida con huevo, pan rallado, ajo, sal, pimienta y comino. Formar bolitas pequeñas y reservar.",
+          "Cocinar la base de la sopa: En una olla, calentar un poco de aceite y sofreír el jengibre. Agregar la pasta de tomate y mezclar bien. Verter el caldo y llevar a ebullición.",
+          "Cocinar las albóndigas: Agregar las albóndigas al caldo hirviendo y cocinar por 10 minutos.",
+          "Agregar los fideos y verduras: Incorporar los fideos y cocinar hasta que estén al dente. Añadir las espinacas en los últimos minutos de cocción. Ajustar el sabor con salsa de soya y ají.",
+          "Servir caliente: Decorar con un chorrito de aceite de sésamo y más chile si se desea picante."
+        ]
+      }
+    ]
+  },
+  
+  {
+    "Pastas": [
+      {
+        "nombre": "Espaguetis con Tomates Cherry",
+        "ingredientes": [
+          "Espaguetis",
+          "Tomates cherry",
+          "Ajo",
+          "Aceite de oliva extra virgen",
+          "Sal y pimienta al gusto",
+          "Hojuelas de chile (opcional)",
+          "Albahaca fresca",
+          "Queso parmesano rallado"
+        ],
+        "preparacion": [
+          "Cocinar la pasta: Hierve abundante agua con sal. Agrega los espaguetis y cocina hasta que estén al dente. Reserva un poco del agua de cocción antes de escurrirlos.",
+          "Preparar la salsa: En una sartén grande, calienta aceite de oliva a fuego medio. Añade ajo picado y sofríelo hasta que esté fragante. Incorpora los tomates cherry cortados a la mitad y cocina hasta que se ablanden. Agrega sal, pimienta y un toque de chile en hojuelas si deseas un poco de picante.",
+          "Integrar la pasta: Vierte los espaguetis escurridos en la sartén con la salsa. Agrega un poco del agua de cocción reservada para ayudar a integrar los sabores.",
+          "Finalizar y servir: Añade albahaca fresca picada y queso parmesano rallado al gusto. Rocía un chorrito de aceite de oliva extra virgen antes de servir."
+        ]
+      },
+      {
+        "nombre": "Rigatoni con salsa de crema",
+        "ingredientes": [
+          "Pasta rigatoni",
+          "Crema de leche o nata para cocinar",
+          "Mantequilla",
+          "Queso parmesano rallado",
+          "Ajo",
+          "Cebolla",
+          "Caldo de pollo o vegetal",
+          "Champiñones (opcional)",
+          "Pollo desmenuzado o carne de tu preferencia",
+          "Cebollino o perejil para decorar",
+          "Sal y pimienta al gusto"
+        ],
+        "preparacion": [
+          "Cocina la pasta rigatoni en abundante agua con sal hasta que esté al dente. Reserva un poco del agua de cocción y escurre la pasta.",
+          "En una sartén grande, derrite la mantequilla y sofríe la cebolla y el ajo finamente picados hasta que estén dorados.",
+          "Agrega los champiñones en caso de usarlos y cocina hasta que estén tiernos.",
+          "Incorpora el caldo y deja reducir un poco. Luego, añade la crema de leche y mezcla bien. Cocina a fuego medio-bajo hasta que la salsa espese.",
+          "Añade el queso parmesano rallado y revuelve hasta que se funda completamente. Ajusta la sal y pimienta al gusto.",
+          "Incorpora la pasta cocida a la sartén y mezcla bien para que se impregne de la salsa. Si es necesario, añade un poco del agua de cocción reservada para ajustar la textura.",
+          "Sirve con pollo desmenuzado o la carne de tu preferencia por encima.",
+          "Decora con cebollino o perejil picado y más queso parmesano rallado al gusto."
+        ]
+      },
+      {
+        "nombre": "Fusilli con Aceitunas Negras y Tomates",
+        "ingredientes": [
+          "Pasta fusilli",
+          "Aceitunas negras",
+          "Tomates cherry",
+          "Ajo",
+          "Albahaca fresca",
+          "Aceite de oliva",
+          "Queso parmesano rallado",
+          "Sal y pimienta al gusto"
+        ],
+        "preparacion": [
+          "Cocina la pasta fusilli en agua con sal hasta que esté al dente. Escurre y reserva un poco del agua de cocción.",
+          "En una sartén grande, calienta un poco de aceite de oliva y sofríe el ajo picado hasta que esté fragante.",
+          "Agrega los tomates cherry cortados por la mitad y cocínalos a fuego medio hasta que se ablanden ligeramente.",
+          "Añade las aceitunas negras y mezcla bien.",
+          "Incorpora la pasta cocida y un poco del agua de cocción reservada para integrar bien los sabores.",
+          "Ajusta la sal y pimienta al gusto.",
+          "Sirve con hojas de albahaca fresca y queso parmesano rallado por encima."
+        ]
+      },
+      {
+        "nombre": "Linguine con camarones",
+        "ingredientes": [
+          "Pasta linguine",
+          "Camarones",
+          "Tomates cherry",
+          "Ajo",
+          "Albahaca fresca",
+          "Salsa de tomate",
+          "Queso parmesano rallado",
+          "Aceite de oliva",
+          "Sal y pimienta al gusto"
+        ],
+        "preparacion": [
+          "Cocina la pasta linguine en agua con sal hasta que esté al dente. Escurre y reserva un poco del agua de cocción.",
+          "En una sartén grande, calienta un poco de aceite de oliva y sofríe el ajo picado hasta que esté dorado.",
+          "Agrega los camarones y cocínalos hasta que tomen un color rosado.",
+          "Incorpora los tomates cherry cortados por la mitad y cocina unos minutos hasta que se suavicen.",
+          "Añade la salsa de tomate y mezcla bien con los ingredientes.",
+          "Agrega la pasta cocida y un poco del agua de cocción reservada para integrar los sabores.",
+          "Ajusta la sal y pimienta al gusto.",
+          "Sirve con hojas de albahaca fresca y queso parmesano rallado por encima."
+        ]
+      },
+      {
+        "nombre": "Penne con parmesano",
+        "ingredientes": [
+          "Pasta penne",
+          "Carne molida de res o cerdo",
+          "Cebolla",
+          "Ajo",
+          "Salsa de tomate",
+          "Caldo de carne o agua",
+          "Aceite de oliva",
+          "Queso parmesano",
+          "Perejil fresco",
+          "Sal y pimienta",
+          "Orégano seco",
+          "Albahaca fresca o seca",
+          "Vino blanco (opcional)"
+        ],
+        "preparacion": [
+          "Cocinar la pasta: Hierve agua en una olla grande con sal. Añade la pasta penne y cocina hasta que esté al dente, según las instrucciones del paquete. Escurre y reserva.",
+          "Preparar la salsa: En una sartén grande, calienta un poco de aceite de oliva y sofríe la cebolla picada hasta que esté transparente. Agrega el ajo picado y cocina por unos segundos hasta que desprenda su aroma. Incorpora la carne molida y cocínala a fuego medio-alto hasta que se dore.",
+          "Añadir el tomate y condimentos: Vierte la salsa de tomate y mezcla bien. Añade sal, pimienta, orégano y albahaca al gusto. Si usas vino blanco, agrégalo en este punto y deja que se evapore el alcohol. Cocina la salsa a fuego bajo durante unos minutos, agregando un poco de caldo o agua si es necesario para ajustar la consistencia.",
+          "Integrar la pasta: Añade la pasta cocida a la sartén con la salsa y mezcla bien para que se impregne de sabor. Cocina a fuego bajo por un par de minutos.",
+          "Servir: Sirve caliente en un plato y espolvorea generosamente queso parmesano rallado y perejil fresco picado."
+        ]
+      }
+    ]
+  },
+  
+
+
+  {
+    "Recetas": [
+      {
+        "categoria": "Postres",
+        "recetas": [
+          {
+            "nombre": "Panqueques",
+            "ingredientes": [
+              "Harina de trigo",
+              "Polvo de hornear",
+              "Azúcar",
+              "Sal",
+              "Leche",
+              "Huevo",
+              "Mantequilla derretida",
+              "Esencia de vainilla",
+              "Arándanos frescos",
+              "Miel o jarabe de maple"
+            ],
+            "preparacion": [
+              "1. Preparar la mezcla seca: En un tazón, mezcla la harina con el polvo de hornear, el azúcar y una pizca de sal.",
+              "2. Integrar los líquidos: En otro tazón, bate el huevo con la leche, la esencia de vainilla y la mantequilla derretida.",
+              "3. Unir las mezclas: Agrega poco a poco la mezcla líquida a los ingredientes secos, batiendo suavemente hasta obtener una masa homogénea y sin grumos. Si queda demasiado espesa, puedes agregar un poco más de leche.",
+              "4. Cocinar los panqueques: Calienta una sartén antiadherente y engrásala ligeramente con mantequilla. Vierte una porción de masa y cocina a fuego medio hasta que aparezcan burbujas en la superficie. Luego, voltea y cocina por unos segundos más hasta que estén dorados.",
+              "5. Servir: Apila los panqueques en un plato, añade arándanos frescos y báñalos con miel o jarabe de maple."
+            ]
+          },
+          {
+            "nombre": "Crumble de frutos rojos",
+            "ingredientes": [
+              "Frutos rojos (frambuesas, moras, fresas, arándanos)",
+              "Azúcar",
+              "Jugo de limón",
+              "Harina de trigo",
+              "Mantequilla fría",
+              "Azúcar morena",
+              "Avena en hojuelas",
+              "Canela en polvo",
+              "Esencia de vainilla (opcional)"
+            ],
+            "preparacion": [
+              "1. Preparar la base de frutos rojos: Lava bien los frutos rojos y colócalos en un recipiente. Agrega azúcar y jugo de limón, mezclando suavemente para que se integren los sabores. Si deseas, añade un poco de esencia de vainilla para potenciar el sabor. Coloca la mezcla en un molde apto para horno.",
+              "2. Preparar el crumble: En un tazón, mezcla la harina, el azúcar morena, la avena y una pizca de canela. Corta la mantequilla fría en trozos pequeños y agrégala a la mezcla. Usa las manos o un tenedor para deshacer la mantequilla y formar una textura arenosa con grumos.",
+              "3. Armar y hornear: Esparce la mezcla de crumble sobre los frutos rojos, cubriendo toda la superficie sin presionar demasiado. Hornea a temperatura media hasta que la parte superior esté dorada y crujiente, y los frutos burbujeen en los bordes.",
+              "4. Servir: Deja enfriar un poco antes de servir. Se puede acompañar con helado de vainilla o crema batida."
+            ]
+          },
+          {
+            "nombre": "Crème brûlée",
+            "ingredientes": [
+              "500 ml de crema para batir",
+              "5 yemas de huevo",
+              "100 g de azúcar",
+              "1 cucharadita de extracto de vainilla",
+              "Azúcar extra para caramelizar"
+            ],
+            "preparacion": [
+              "1. Precalentar el horno a 160°C.",
+              "2. En una cacerola, calentar la crema para batir a fuego medio hasta que empiece a hervir. Retirar del fuego y agregar el extracto de vainilla.",
+              "3. En un tazón, batir las yemas con el azúcar hasta obtener una mezcla cremosa y de color pálido.",
+              "4. Verter poco a poco la crema caliente sobre la mezcla de yemas, batiendo constantemente para evitar que las yemas se cocinen.",
+              "5. Colar la mezcla y distribuir en moldes resistentes al calor.",
+              "6. Colocar los moldes en un recipiente con agua caliente (baño maría) y hornear por 40-45 minutos o hasta que la crema esté firme pero ligeramente temblorosa en el centro.",
+              "7. Dejar enfriar a temperatura ambiente y luego refrigerar por al menos 4 horas.",
+              "8. Antes de servir, espolvorear azúcar sobre la superficie y caramelizar con un soplete de cocina o bajo el grill del horno hasta que se forme una costra dorada y crujiente.",
+              "9. Dejar reposar unos minutos y disfrutar."
+            ]
+          },
+          {
+            "nombre": "Waffles con Frutos Rojos",
+            "ingredientes": [
+              "Harina",
+              "Leche",
+              "Huevos",
+              "Mantequilla derretida",
+              "Azúcar",
+              "Polvo de hornear",
+              "Esencia de vainilla",
+              "Sal",
+              "Frutos rojos (fresas, moras, frambuesas, arándanos)",
+              "Miel o jarabe de maple",
+              "Yogur natural (opcional)",
+              "Azúcar glas (opcional)"
+            ],
+            "preparacion": [
+              "1. En un tazón, mezcla la harina, el azúcar, el polvo de hornear y una pizca de sal.",
+              "2. En otro recipiente, bate los huevos y agrégales la leche, la mantequilla derretida y la esencia de vainilla.",
+              "3. Incorpora los ingredientes líquidos a los secos y mezcla hasta obtener una masa homogénea.",
+              "4. Precalienta la waflera y engrásala ligeramente con mantequilla o aceite.",
+              "5. Vierte la masa en la waflera y cocina hasta que los waffles estén dorados y crujientes.",
+              "6. Sirve los waffles con yogur natural, frutos rojos frescos y un toque de miel o jarabe de maple.",
+              "7. Para un extra de dulzura, espolvorea azúcar glas por encima."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+
+  
+  {
+    "categoria": "Bowls",
+    "recetas": [
+      {
+        "nombre": "Bibimbap",
+        "ingredientes": [
+          "Arroz cocido",
+          "Carne de res, pollo o tofu",
+          "Zanahoria",
+          "Pepino",
+          "Brotes de soja",
+          "Espinacas o brócoli",
+          "Huevo",
+          "Ajo",
+          "Aceite de sésamo",
+          "Semillas de sésamo",
+          "Sal y pimienta"
+        ],
+        "salsa": [
+          "Gochujang (pasta de chile coreana)",
+          "Salsa de soja",
+          "Miel o azúcar",
+          "Aceite de sésamo"
+        ],
+        "preparacion": [
+          "Corta la zanahoria en tiras finas y el pepino en rodajas delgadas.",
+          "Saltea las zanahorias, los brotes de soja y el pepino con un poco de aceite de sésamo hasta que estén ligeramente tiernos. Reserva.",
+          "Cocina la carne con ajo picado, sal y pimienta hasta que esté bien dorada. Si usas tofu, córtalo en cubos y saltéalo hasta que esté dorado.",
+          "Fríe el huevo a la plancha hasta que la clara esté cocida y la yema quede líquida.",
+          "Mezcla en un tazón la pasta de gochujang, salsa de soja, miel o azúcar y aceite de sésamo hasta obtener una salsa homogénea.",
+          "En un tazón grande, coloca el arroz como base y distribuye los vegetales, la carne y el huevo frito encima.",
+          "Espolvorea semillas de sésamo y agrega la salsa al gusto.",
+          "Mezcla bien todos los ingredientes antes de comer."
+        ]
+      },
+      {
+        "nombre": "Cerdo crujiente a la parrilla con arroz",
+        "ingredientes": [
+          "Panceta de cerdo o lomo con piel",
+          "Salsa de soya",
+          "Miel o azúcar morena",
+          "Ajo picado",
+          "Jengibre rallado",
+          "Salsa de ostras",
+          "Aceite de sésamo",
+          "Vinagre de arroz",
+          "Sal gruesa",
+          "Pimienta negra",
+          "Semillas de sésamo (opcional)",
+          "Cebollín picado (para decorar)"
+        ],
+        "arroz": [
+          "Arroz jazmín o arroz de grano largo",
+          "Agua",
+          "Sal",
+          "Aceite vegetal o de sésamo (opcional)"
+        ],
+        "preparacion": [
+          "Preparar la marinada del cerdo: Mezcla salsa de soya, miel (o azúcar morena), ajo picado, jengibre rallado, salsa de ostras, aceite de sésamo y un chorrito de vinagre de arroz.",
+          "Unta bien la panceta o lomo de cerdo con esta marinada, asegurándote de cubrir toda la carne, excepto la piel.",
+          "Deja marinar en el refrigerador por al menos 4 horas o preferiblemente toda la noche para potenciar los sabores.",
+          "Secado y preparación de la piel: Retira el cerdo del refrigerador y sécalo con una toalla de papel, especialmente la piel.",
+          "Espolvorea sal gruesa sobre la piel para ayudar a que quede más crujiente.",
+          "Deja reposar a temperatura ambiente por unos 30 minutos antes de cocinar.",
+          "Cocinar el cerdo en la parrilla: Precalienta la parrilla a temperatura media-alta.",
+          "Coloca el cerdo con la piel hacia arriba sobre la parrilla, a fuego indirecto, y tapa la parrilla.",
+          "Cocina por 30-40 minutos, revisando que la piel se mantenga seca.",
+          "Sube la temperatura y coloca el cerdo con la piel hacia abajo para dorarla y hacerla crujiente.",
+          "Cocina unos 10-15 minutos adicionales hasta que la piel se infle y se vea crocante.",
+          "Retira del fuego y deja reposar 10 minutos antes de cortar.",
+          "Preparación del arroz: Lava el arroz en un colador bajo el chorro de agua fría hasta que el agua salga clara.",
+          "En una olla, agrega el arroz lavado y la cantidad adecuada de agua (1 taza de arroz por 1.5 tazas de agua).",
+          "Añade una pizca de sal y, si deseas, unas gotas de aceite de sésamo para darle más aroma.",
+          "Lleva a ebullición a fuego medio-alto y cuando empiece a hervir, reduce el fuego al mínimo y tapa la olla.",
+          "Cocina por 12-15 minutos sin destapar.",
+          "Apaga el fuego y deja reposar con la tapa puesta por 5 minutos antes de esponjar con un tenedor.",
+          "Montaje y presentación: Sirve una base de arroz caliente en un bowl.",
+          "Corta el cerdo en rebanadas y colócalo sobre el arroz.",
+          "Decora con cebollín picado, semillas de sésamo y rodajas de pepino fresco.",
+          "Acompaña con salsa de soya, salsa picante o alguna vinagreta asiática si lo deseas."
+        ]
+      },
+      {
+        "nombre": "Tazón de sopa ramen",
+        "ingredientes": [
+          "Caldo de pollo o cerdo",
+          "Ajo",
+          "Jengibre",
+          "Salsa de soya",
+          "Miso (opcional)",
+          "Aceite de sésamo",
+          "Mirin (opcional)",
+          "Azúcar",
+          "Fideos ramen",
+          "Pechuga de pollo o panceta de cerdo",
+          "Huevos",
+          "Cebollín",
+          "Hongos shiitake o champiñones",
+          "Zanahoria",
+          "Brotes de bambú o de soya",
+          "Algas (wakame o nori)"
+        ],
+        "preparacion": [
+          "Preparar el caldo: Pica el ajo y corta el jengibre en rodajas.",
+          "En una olla, calienta el aceite de sésamo y sofríe el ajo y el jengibre hasta que suelten su aroma.",
+          "Añade el caldo de pollo o cerdo y deja hervir a fuego lento.",
+          "Incorpora la salsa de soya, el miso, el mirin y el azúcar. Cocina por 20 minutos.",
+          "Cocinar el pollo y los huevos: Hierve la pechuga de pollo en agua con sal por 10-12 minutos. Retira y corta en rebanadas.",
+          "Cocina los huevos en agua hirviendo por 6-7 minutos. Sumérgelos en agua fría, pélalos y marínalos en salsa de soya por 10 minutos.",
+          "Cocinar los fideos: Hierve agua en otra olla y cocina los fideos ramen según las instrucciones del paquete.",
+          "Escúrrelos y enjuágalos con agua fría para detener la cocción.",
+          "Armar el tazón de ramen: Corta el cebollín, los hongos y la zanahoria en tiras finas.",
+          "Sirve los fideos en un tazón grande.",
+          "Vierte el caldo caliente sobre los fideos.",
+          "Añade las rebanadas de pollo, el huevo cortado a la mitad y los toppings (cebollín, hongos, zanahoria y algas).",
+          "Agrega unas gotas de aceite de chile si deseas un toque picante."
+        ]
+      },
+      {
+        "nombre": "Arroz frito con huevo y cebolleta",
+        "ingredientes": [
+          "Arroz",
+          "Huevos",
+          "Cebolleta",
+          "Ajo",
+          "Salsa de soya",
+          "Aceite vegetal",
+          "Aceite de sésamo",
+          "Sal",
+          "Pimienta",
+          "Azúcar (opcional)"
+        ],
+        "preparacion": [
+          "Preparar los ingredientes: Cocina el arroz y deja que se enfríe completamente (preferiblemente usa arroz del día anterior).",
+          "Pica finamente la cebolleta y separa la parte blanca de la verde.",
+          "Pica el ajo en trozos pequeños.",
+          "Cocinar los huevos: En un sartén grande o wok, calienta un poco de aceite vegetal.",
+          "Bate los huevos y agrégalos al sartén caliente.",
+          "Cocina removiendo constantemente hasta que estén revueltos y ligeramente dorados. Retíralos y resérvalos.",
+          "Sofreír los ingredientes: En el mismo sartén, añade un poco más de aceite y sofríe el ajo y la parte blanca de la cebolleta hasta que suelten su aroma.",
+          "Agrega el arroz frío y saltea a fuego alto, separando los granos con una espátula.",
+          "Incorpora la salsa de soya, una pizca de sal, pimienta y, si lo deseas, una pequeña cantidad de azúcar.",
+          "Mezcla bien para que el arroz absorba los sabores.",
+          "Finalizar el arroz frito: Añade los huevos revueltos al arroz y mezcla bien.",
+          "Vierte un poco de aceite de sésamo para darle un aroma extra.",
+          "Agrega la parte verde de la cebolleta y saltea por unos segundos más."
+        ]
+      }
+    ]
+  }
+]
+}
